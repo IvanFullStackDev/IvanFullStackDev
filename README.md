@@ -1,16 +1,19 @@
-.        _nnnn_                      
-        dGGGGMMb     ,"""""""""""""".
-       @p~qp~~qMb    | Linux Rules! |
-       M|@||@) M|   _;..............'
-       @,----.JM| -'
-      JS^\__/  qKL
-     dZP        qKRb
-    dZP          qKKb
-   fZP            SMMb
-   HZM            MMMM
-   FqM            MMMM
- __| ".        |\dS"qML
- |    `.       | `' \Zq
-_)      \.___.,|     .'
-\____   )MMMMMM|   .'
-     `-'       `--' hjm
+---------- SKILLS ----------
+- PYTHON (+2.7)
+- CSHARP (DOTNET +4.0)
+- HTML5, CSS3 & JAVASCRIPT
+- CRYPTOGRAPHY (CLASSICAL, MODERN, HASH)
+- DATA SCIENCE
+- MATHS & TEORIC PHYSICS
+- OSINT
+- LINUX DISTRIBUTIONS
+---------- SET UP ----------
+- INTEL CORE i7-7700
+- 16GB RAM
+- 255GB SSD
+- 1TB HDD
+- 1TB PORTABLE HARD DISK
+------ OS DUAL BOOST -------
+- PRIMARY: WINDOWS 10 PRO
+- SECONDARY: UBUNTU 23.04LTS
+- VIRTUAL MACHINE (VB): KALI LINUX 2023

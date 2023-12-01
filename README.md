@@ -1,7 +1,7 @@
-         _nnnn_                      
-        dGGGGMMb     ,"""""""""""""""""""".
-       @p~qp~~qMb    | i always come back |
-       M|@||@) M|   _;....................'
+.        _nnnn_                      
+        dGGGGMMb     ,"""""""""""""".
+       @p~qp~~qMb    | Linux Rules! |
+       M|@||@) M|   _;..............'
        @,----.JM| -'
       JS^\__/  qKL
      dZP        qKRb

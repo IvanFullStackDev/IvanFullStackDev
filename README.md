@@ -11,8 +11,6 @@
 <p align="center"> 
   <samp>
     <b>「 I am a full stack developer from <b>the earth</b> 」
-    <br>
-    <br>
   </samp>
 </p>
       
@@ -28,9 +26,6 @@
  
 
 </p>
-
-<br/>
-<br/>
 <br/>
 
 ## Use To Code

@@ -45,6 +45,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-F05032?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![Archlinux](https://img.shields.io/badge/Archlinux-1530B7?style=for-the-badge&logo=Archlinux&logoColor=white)
 <br/>
 
 ## Top Open Source -

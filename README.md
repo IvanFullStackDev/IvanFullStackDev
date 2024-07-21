@@ -22,7 +22,6 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ✌️ &emsp; Enjoy playing at videogames (and cheating. Nah, jk) <br/><br/>
- ✌️ &emsp; Student of cryptography, mathematics and computer science <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  💻 &emsp; Favorite lang: C++ & python
  

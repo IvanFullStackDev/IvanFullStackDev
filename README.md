@@ -33,6 +33,7 @@
 ## Use To Code
 
 ![Python](https://img.shields.io/badge/Python-007acc?style=for-the-badge&logo=Python&logoColor=yellow)
+![C++](https://img.shields.io/badge/-C++-007acc?style=for-the-badge&logo=c%2B%2B)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
